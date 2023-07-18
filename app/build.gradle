@@ -66,4 +66,5 @@ dependencies {
 
     implementation "com.google.accompanist:accompanist-drawablepainter:0.31.5-beta"
     implementation "com.google.accompanist:accompanist-permissions:0.31.5-beta"
+    implementation "com.google.accompanist:accompanist-systemuicontroller:0.31.5-beta"
 }
